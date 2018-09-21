@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArcaneEngine", "ArcaneEngine\ArcaneEngine.vcxproj", "{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Debug|x64.ActiveCfg = Debug|x64
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Debug|x64.Build.0 = Debug|x64
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Debug|x86.Build.0 = Debug|Win32
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Release|x64.ActiveCfg = Release|x64
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Release|x64.Build.0 = Release|x64
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Release|x86.ActiveCfg = Release|Win32
+		{B2BD33D4-F805-4FAA-9CDA-7E8A78264B56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB9CA30-B95E-45BC-8736-90DA7BB4DEF4}
+	EndGlobalSection
+EndGlobal
