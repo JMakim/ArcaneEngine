@@ -1,5 +1,4 @@
 ﻿  ArcaneEngine.cpp
-  InitializeCheck.cpp
-  Main.cpp
+  SceneManager.cpp
   Generating Code...
   ArcaneEngine.vcxproj -> C:\Users\101095903\Documents\GitHub\ArcaneEngine\Debug\ArcaneEngine.exe
