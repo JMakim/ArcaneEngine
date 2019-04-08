@@ -168,12 +168,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Arcane.hpp" />
+    <ClInclude Include="InitializeCheck.hpp" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArcaneEngine.cpp" />
+    <ClCompile Include="InitializeCheck.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

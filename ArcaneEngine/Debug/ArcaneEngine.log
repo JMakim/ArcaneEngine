@@ -1,5 +1,5 @@
 ﻿  ArcaneEngine.cpp
-ArcaneEngine.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Music::Music(void)" (__imp_??0Music@sf@@QAE@XZ) referenced in function "public: static void __cdecl Arcane::Start(void)" (?Start@Arcane@@SAXXZ)
-ArcaneEngine.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Music::~Music(void)" (__imp_??1Music@sf@@UAE@XZ) referenced in function "public: static void __cdecl Arcane::Start(void)" (?Start@Arcane@@SAXXZ)
-ArcaneEngine.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: static void __cdecl Arcane::Start(void)" (?Start@Arcane@@SAXXZ)
-C:\Users\Jahn\Documents\GitHub\ArcaneEngine\Debug\ArcaneEngine.exe : fatal error LNK1120: 3 unresolved externals
+  InitializeCheck.cpp
+  Main.cpp
+  Generating Code...
+  ArcaneEngine.vcxproj -> C:\Users\101095903\Documents\GitHub\ArcaneEngine\Debug\ArcaneEngine.exe

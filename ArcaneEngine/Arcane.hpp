@@ -11,14 +11,10 @@ class Arcane
 {
 public:
 	static void Start();
-	static void Initialize();
 
 private:
 
 };
-
-
-
 
 
 #endif Arcane_hpp
