@@ -1,4 +1,1 @@
-﻿  ArcaneEngine.cpp
-  SceneManager.cpp
-  Generating Code...
-  ArcaneEngine.vcxproj -> C:\Users\101095903\Documents\GitHub\ArcaneEngine\Debug\ArcaneEngine.exe
+﻿LINK : fatal error LNK1104: cannot open file 'C:\Users\Jahn\Documents\GitHub\ArcaneEngine\Debug\ArcaneEngine.exe'
